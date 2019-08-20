@@ -37,7 +37,8 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  kids = ["Haley", "Jake", "Brendan", "Brady", "am", "arrays!"]
+   kids[5]
 end
 
 def update_element_from_index(array, index_number, element)
